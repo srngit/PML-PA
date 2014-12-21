@@ -3,9 +3,9 @@ title: "Predicting manner of exercise"
 author: "srngit"
 date: "Tuesday, December 20, 2014"
 output:
-  pdf_document: default
   html_document:
     keep_md: yes
+  pdf_document: default
 ---
 ### Synopsis
 Focus of this analysis is to predict "how(well)" the Weight Lifting Exercises was performed based on the Human Activity Recognition(HAR) activity data set.

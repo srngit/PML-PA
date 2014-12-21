@@ -170,7 +170,7 @@ confusionMatrix(rfPred,subtest$classe)
 ## Balanced Accuracy      0.9996   0.9964   0.9936   0.9955   1.0000
 ```
 
-The accuracy of the model was quite high at 99.57% and hence the same was adopted to predict the final test variable. Further tuning may lead to over-fitting and hence is avoided.     
+The accuracy of the model was quite high at 99.57% and hence the same was adopted to predict the final test variable. Further tuning may lead to over-fitting and hence is avoided. The out-of-sample error is expected to be higher than 0.43%, as the out-of-sample error is always likely to be more than the error in the test data.   
 
 ### Applying the model on Test Data
 
